@@ -1,52 +1,49 @@
 .navigation-links-wrapper {
   display: contents;
 }
- 
 .navigation-links-nav {
+  font-size: 18px;
   flex: 0 0 auto;
   display: flex;
   align-items: center;
   flex-direction: row;
 }
- 
 .navigation-links-text1 {
   cursor: pointer;
   transition: 0.3s;
 }
- 
 .navigation-links-text1:hover {
   color: var(--dl-color-scheme-brown);
 }
- 
 .navigation-links-text2 {
   cursor: pointer;
   transition: 0.3s;
-  margin-left: 41px;
 }
- 
 .navigation-links-text2:hover {
   color: var(--dl-color-scheme-brown);
 }
- 
 .navigation-links-text3 {
   cursor: pointer;
   transition: 0.3s;
-  margin-left: 41px;
 }
- 
 .navigation-links-text3:hover {
   color: var(--dl-color-scheme-brown);
 }
- 
 .navigation-links-text4 {
   cursor: pointer;
   transition: 0.3s;
-  margin-left: 41px;
 }
- 
 .navigation-links-text4:hover {
   color: var(--dl-color-scheme-brown);
 }
+.navigation-links-text5 {
+  cursor: pointer;
+  transition: 0.3s;
+}
+.navigation-links-text5:hover {
+  color: var(--dl-color-scheme-brown);
+}
+
  
 
  
@@ -139,20 +136,6 @@
 .navigation-links-text8:hover {
   color: var(--dl-color-scheme-brown);
 }
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
  
 
  
